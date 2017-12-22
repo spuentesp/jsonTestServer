@@ -1,0 +1,66 @@
+{
+    "consolidado": [
+      {
+        "totalDisponible": "5431085060",
+        "totalSaldo9AM": "5032689710",
+        "totalContable": "5431123659",
+        "totalRetencion": "38599",
+        "moneda": "CLP"
+      },
+      {
+        "totalDisponible": "57",
+        "totalSaldo9AM": "57",
+        "totalContable": "57",
+        "totalRetencion": "0",
+        "moneda": "USD"
+      },
+      {
+        "totalDisponible": "197049.67",
+        "totalSaldo9AM": "197049.67",
+        "totalContable": "197049.67",
+        "totalRetencion": "0",
+        "moneda": "EUR"
+      }
+    ],
+    "listaEmpresas": [
+      { "rutEmpresa": "191150384", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A. TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "21994", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "21994", "saldoDisponible": "21994" },
+      { "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "21994", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "21994", "saldoDisponible": "21994" }
+    ],
+    "detalleCuentas": [
+      { "numCuentaCorriente": "10289160", "rutEmpresa": "191150384", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "304841740", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "305150094", "saldoDisponible": "305150094" },
+      { "numCuentaCorriente": "10067990", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "50907694", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "51631695", "saldoDisponible": "51631695" },
+      { "numCuentaCorriente": "10628878", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "49995154", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "49995154", "saldoDisponible": "49995154" },
+      { "numCuentaCorriente": "10387129", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "50095154", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "50095154", "saldoDisponible": "50095154" },
+      { "numCuentaCorriente": "10389105", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "314902854", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "314902854", "saldoDisponible": "314902854" },
+      { "numCuentaCorriente": "15062775", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "50209218", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "50209218", "saldoDisponible": "50209218" },
+      { "numCuentaCorriente": "10477292", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "86099742", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "86099742", "saldoDisponible": "86099742" },
+      { "numCuentaCorriente": "10463356", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "52232624", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "52232624", "saldoDisponible": "52232624" },
+      { "numCuentaCorriente": "10449744", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "66935745", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "66935745", "saldoDisponible": "66935745" },
+      { "numCuentaCorriente": "10459235", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "1565380409", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "1565380409", "saldoDisponible": "1565380409" },
+      { "numCuentaCorriente": "10589970", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "49995154", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "49995154", "saldoDisponible": "49995154" },
+      { "numCuentaCorriente": "10589953", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "51635186", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "51635186", "saldoDisponible": "51635186" },
+      { "numCuentaCorriente": "10184384", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "569590277", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "569590277", "saldoDisponible": "569590277" },
+      { "numCuentaCorriente": "10383425", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "81599102", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "81599102", "saldoDisponible": "81599102" },
+      { "numCuentaCorriente": "10473301", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "95656452", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "95656452", "saldoDisponible": "95656452" },
+      { "numCuentaCorriente": "10459634", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "400728443", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "401611204", "saldoDisponible": "401611204" },
+      { "numCuentaCorriente": "10612190", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "49995154", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "49995154", "saldoDisponible": "49995154" },
+      { "numCuentaCorriente": "10612203", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "118617920", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "118617920", "saldoDisponible": "118617920" },
+      { "numCuentaCorriente": "10516719", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "51210738", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "51210738", "saldoDisponible": "51210738" },
+      { "numCuentaCorriente": "10466193", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "50095154", "retenciones": "38599", "retencion1dia": "0", "retencionMas1Dia": "38599", "saldoContable": "50095154", "saldoDisponible": "50056555" },
+      { "numCuentaCorriente": "10617965", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "56364376", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "56364376", "saldoDisponible": "56364376" },
+      { "numCuentaCorriente": "10526111", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "50624438", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "50624438", "saldoDisponible": "50624438" },
+      { "numCuentaCorriente": "10505946", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "75584267", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "75584267", "saldoDisponible": "75584267" },
+      { "numCuentaCorriente": "10641629", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "121844686", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "121844686", "saldoDisponible": "121844686" },
+      { "numCuentaCorriente": "10525866", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "49995154", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "446513987", "saldoDisponible": "446513987" },
+      { "numCuentaCorriente": "10451471", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "53873702", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "53873702", "saldoDisponible": "53873702" },
+      { "numCuentaCorriente": "10578129", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "49995154", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "49995154", "saldoDisponible": "49995154" },
+      { "numCuentaCorriente": "10603441", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "122878611", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "122878611", "saldoDisponible": "122878611" },
+      { "numCuentaCorriente": "10451463", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "158564466", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "158564466", "saldoDisponible": "158564466" },
+      { "numCuentaCorriente": "10522697", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "132245788", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "132245788", "saldoDisponible": "132245788" },
+      { "numCuentaCorriente": "10589961", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "49995154", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "49995154", "saldoDisponible": "49995154" },
+      { "numCuentaCorriente": "11052031", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "USD", "saldoContable9AM": "26", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "24", "saldoDisponible": "24" },
+      { "numCuentaCorriente": "11051221", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "USD", "saldoContable9AM": "33", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "33", "saldoDisponible": "33" },
+      { "numCuentaCorriente": "11010029", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "EUR", "saldoContable9AM": "175055.67", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "175055.67", "saldoDisponible": "175055.67" },
+      { "numCuentaCorriente": "11010096", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "EUR", "saldoContable9AM": "21994", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "21994", "saldoDisponible": "21994" },
+    ]
+  };

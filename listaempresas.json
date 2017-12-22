@@ -1,0 +1,6 @@
+{
+    "listaEmpresas": [
+        { "rutEmpresa": "191150384", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A. TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "21994", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "21994", "saldoDisponible": "21994" },
+        { "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "CLP", "saldoContable9AM": "21994", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "21994", "saldoDisponible": "21994" }
+      ]
+}

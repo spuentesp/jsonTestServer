@@ -1,0 +1,25 @@
+{
+    "consolidado": [
+        {
+          "totalDisponible": "5431085060",
+          "totalSaldo9AM": "5032689710",
+          "totalContable": "5431123659",
+          "totalRetencion": "38599",
+          "moneda": "CLP"
+        },
+        {
+          "totalDisponible": "57",
+          "totalSaldo9AM": "57",
+          "totalContable": "57",
+          "totalRetencion": "0",
+          "moneda": "USD"
+        },
+        {
+          "totalDisponible": "197049.67",
+          "totalSaldo9AM": "197049.67",
+          "totalContable": "197049.67",
+          "totalRetencion": "0",
+          "moneda": "EUR"
+        }
+      ]
+}

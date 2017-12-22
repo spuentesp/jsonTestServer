@@ -61,6 +61,7 @@
       { "numCuentaCorriente": "11052031", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "USD", "saldoContable9AM": "26", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "24", "saldoDisponible": "24" },
       { "numCuentaCorriente": "11051221", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "USD", "saldoContable9AM": "33", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "33", "saldoDisponible": "33" },
       { "numCuentaCorriente": "11010029", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "EUR", "saldoContable9AM": "175055.67", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "175055.67", "saldoDisponible": "175055.67" },
-      { "numCuentaCorriente": "11010096", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "EUR", "saldoContable9AM": "21994", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "21994", "saldoDisponible": "21994" },
+      { "numCuentaCorriente": "11010096", "rutEmpresa": "787034101", "nombreEmpresa": "TELEFONICA MULTIMEDIA CHILE S.A.", "moneda": "EUR", "saldoContable9AM": "21994", "retenciones": "0", "retencion1dia": "0", "retencionMas1Dia": "0", "saldoContable": "21994", "saldoDisponible": "21994" }
+
     ]
-  };
+  }
